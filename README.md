@@ -1,3 +1,3 @@
 # digitPattern
 
-image.png
+./result.png
