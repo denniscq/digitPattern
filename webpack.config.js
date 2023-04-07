@@ -23,7 +23,7 @@ module.exports = {
     },
     plugins: [
         new HtmlWebpackPlugin({
-          title: 'Development',
+          title: 'digit pattern',
         }),
         new webpack.ProvidePlugin({
             process: 'process/browser',
