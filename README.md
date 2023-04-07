@@ -1,3 +1,3 @@
 # digitPattern
 
-./result.png
+![Image text](./result.png)
